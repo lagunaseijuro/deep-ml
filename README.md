@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 31 problems · 4 labs · 10 math
+**62** solved · 48 problems · 4 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,8 +12,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-07-29 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-07-29 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-07-29 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-07-29 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Cosine LR Schedule with Linear Warmup](https://www.deep-ml.com/problems/910) | easy | 2026-09-24 | [solution](problems/0910-cosine-lr-schedule-with-linear-warmup) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-07-29 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-09-25 | [solution](problems/0086-detect-overfitting-or-underfitting) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-29 | [solution](problems/0083-dot-product-calculator) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-09-23 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-09-24 | [solution](problems/0913-early-stopping-with-patience) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-09-23 | [solution](problems/0901-implement-dropout-from-scratch) |
@@ -21,10 +27,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2026-09-28 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-09-23 | [solution](problems/0908-implement-layernorm-from-scratch) |
 | [Implement Weight Decay as L2 Regularization](https://www.deep-ml.com/problems/198) | easy | 2026-09-28 | [solution](problems/0198-implement-weight-decay-as-l2-regularization) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-29 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-29 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-29 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-08-27 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-09-24 | [solution](problems/0153-steplr-learning-rate-scheduler) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-29 | [solution](problems/0002-transpose-of-a-matrix) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-09-23 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-28 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-07-29 | [solution](problems/0079-binomial-distribution-probability) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-07-29 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-09-24 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-09-23 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-22 | [solution](problems/0151-dropout-layer) |
@@ -32,13 +45,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-28 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-09-24 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-24 | [solution](problems/0909-gradient-clipping-by-norm) |
+| [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-07-29 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-09-23 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-23 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-29 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-09-23 | [solution](problems/0126-implement-group-normalization) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-09-23 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/741) | medium | 2026-07-04 | [solution](problems/0741-knapsack-based-zero-bucket-assignment) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-28 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-29 | [solution](problems/0009-matrix-times-matrix) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-07-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-09-24 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-28 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
