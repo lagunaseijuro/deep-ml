@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:13:39.095Z",
+  "generated_at": "2026-09-28T23:13:41.412Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -786,6 +786,123 @@
       "last_pushed_at": "2026-07-29T23:26:49.291Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:50": {
+      "kind": "problem",
+      "id": "50",
+      "title": "Implement Lasso Regression using ISTA",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/50",
+      "path": "problems/0050-implement-lasso-regression-using-ista",
+      "first_solved_at": "2026-07-30T19:16:56.125Z",
+      "last_pushed_at": "2026-07-30T19:16:56.125Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-07-30T19:34:11.724Z",
+      "last_pushed_at": "2026-07-30T19:34:11.724Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-07-30T19:35:22.003Z",
+      "last_pushed_at": "2026-07-30T19:35:22.003Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-07-30T19:39:05.911Z",
+      "last_pushed_at": "2026-07-30T19:39:05.911Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-07-30T20:19:49.113Z",
+      "last_pushed_at": "2026-07-30T20:19:49.113Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-07-30T23:15:32.971Z",
+      "last_pushed_at": "2026-07-30T23:15:32.971Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2026-07-30T23:22:19.518Z",
+      "last_pushed_at": "2026-07-30T23:22:19.518Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2026-07-30T23:24:34.731Z",
+      "last_pushed_at": "2026-07-30T23:24:34.731Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-07-30T23:25:49.771Z",
+      "last_pushed_at": "2026-07-30T23:25:49.771Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
