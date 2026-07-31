@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:13:41.412Z",
+  "generated_at": "2026-09-28T23:13:43.772Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -903,6 +903,58 @@
       "last_pushed_at": "2026-07-30T23:25:49.771Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2026-07-31T00:33:01.121Z",
+      "last_pushed_at": "2026-07-31T00:33:01.121Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-07-31T02:21:39.092Z",
+      "last_pushed_at": "2026-07-31T02:21:39.092Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-07-31T17:31:51.874Z",
+      "last_pushed_at": "2026-07-31T17:31:51.874Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-07-31T17:37:05.363Z",
+      "last_pushed_at": "2026-07-31T17:37:05.363Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
