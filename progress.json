@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:13:45.635Z",
+  "generated_at": "2026-09-28T23:13:47.342Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -968,6 +968,123 @@
       "last_pushed_at": "2026-08-01T18:18:31.780Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-08-04T17:27:45.726Z",
+      "last_pushed_at": "2026-08-04T17:27:45.726Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-08-04T17:34:46.218Z",
+      "last_pushed_at": "2026-08-04T17:34:46.218Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-08-04T18:24:42.439Z",
+      "last_pushed_at": "2026-08-04T18:24:42.439Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:357": {
+      "kind": "problem",
+      "id": "357",
+      "title": "Handle Imbalanced Data with SMOTE",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/357",
+      "path": "problems/0357-handle-imbalanced-data-with-smote",
+      "first_solved_at": "2026-08-04T19:06:58.227Z",
+      "last_pushed_at": "2026-08-04T19:06:58.227Z",
+      "language": "python",
+      "lines": 25
+    },
+    "lab:11": {
+      "kind": "lab",
+      "id": "11",
+      "title": "Data Preprocessing: Handling Missing Values",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/labs/11",
+      "path": "labs/0011-data-preprocessing-handling-missing-values",
+      "first_solved_at": "2026-08-04T19:11:32.327Z",
+      "last_pushed_at": "2026-08-04T19:11:32.327Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-08-04T21:29:41.741Z",
+      "last_pushed_at": "2026-08-04T21:29:41.741Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-08-04T21:33:04.377Z",
+      "last_pushed_at": "2026-08-04T21:33:04.377Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:843": {
+      "kind": "problem",
+      "id": "843",
+      "title": "Ordinal Encoding for Categorical Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/843",
+      "path": "problems/0843-ordinal-encoding-for-categorical-features",
+      "first_solved_at": "2026-08-04T22:03:58.576Z",
+      "last_pushed_at": "2026-08-04T22:03:58.576Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:846": {
+      "kind": "problem",
+      "id": "846",
+      "title": "Feature Hashing Trick for Sparse Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/846",
+      "path": "problems/0846-feature-hashing-trick-for-sparse-features",
+      "first_solved_at": "2026-08-04T22:17:55.064Z",
+      "last_pushed_at": "2026-08-04T22:17:55.064Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
