@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 70 problems · 5 labs · 10 math
+**89** solved · 73 problems · 5 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -71,6 +71,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-07-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-07-30 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-08-05 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
+| [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-08-05 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-08-05 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-09-23 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/741) | medium | 2026-07-04 | [solution](problems/0741-knapsack-based-zero-bucket-assignment) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-28 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
@@ -101,6 +104,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-28 | [solution](math/0039-bias-variance-decomposition) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-28 | [solution](math/0017-covariance-and-correlation) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-28 | [solution](math/0024-information-theory-entropy) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-08-05 | [solution](math/0012-inverse-and-rank) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-25 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-22 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-22 | [solution](math/0031-regularization-and-generalization) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:13:47.342Z",
+  "generated_at": "2026-09-28T23:13:49.573Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -1085,6 +1085,56 @@
       "last_pushed_at": "2026-08-04T22:17:55.064Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:275": {
+      "kind": "problem",
+      "id": "275",
+      "title": "Implement Stratified Train-Test Split",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/275",
+      "path": "problems/0275-implement-stratified-train-test-split",
+      "first_solved_at": "2026-08-05T00:02:28.039Z",
+      "last_pushed_at": "2026-08-05T00:02:28.039Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:840": {
+      "kind": "problem",
+      "id": "840",
+      "title": "Implement Stratified K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/840",
+      "path": "problems/0840-implement-stratified-k-fold-cross-validation",
+      "first_solved_at": "2026-08-05T04:12:39.080Z",
+      "last_pushed_at": "2026-08-05T04:12:39.080Z",
+      "language": "python",
+      "lines": 31
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-08-05T04:40:39.203Z",
+      "last_pushed_at": "2026-08-05T04:40:39.203Z"
+    },
+    "problem:192": {
+      "kind": "problem",
+      "id": "192",
+      "title": "Implement the Huber Loss Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/192",
+      "path": "problems/0192-implement-the-huber-loss-function",
+      "first_solved_at": "2026-08-05T05:07:51.137Z",
+      "last_pushed_at": "2026-08-05T05:07:51.137Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
