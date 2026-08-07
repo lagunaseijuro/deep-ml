@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 73 problems · 5 labs · 11 math
+**91** solved · 74 problems · 5 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -71,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-07-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-07-30 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-08-07 | [solution](problems/0276-implement-roc-curve-calculation) |
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-08-05 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-08-05 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-08-05 | [solution](problems/0192-implement-the-huber-loss-function) |
@@ -100,6 +101,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-07 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-28 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-28 | [solution](math/0039-bias-variance-decomposition) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-28 | [solution](math/0017-covariance-and-correlation) |

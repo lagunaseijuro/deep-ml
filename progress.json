@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:13:49.573Z",
+  "generated_at": "2026-09-28T23:13:51.376Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -1135,6 +1135,30 @@
       "last_pushed_at": "2026-08-05T05:07:51.137Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:276": {
+      "kind": "problem",
+      "id": "276",
+      "title": "Implement ROC Curve Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/276",
+      "path": "problems/0276-implement-roc-curve-calculation",
+      "first_solved_at": "2026-08-07T07:09:58.285Z",
+      "last_pushed_at": "2026-08-07T07:09:58.285Z",
+      "language": "python",
+      "lines": 22
+    },
+    "math:30": {
+      "kind": "math",
+      "id": "30",
+      "title": "ML Workflow Basics",
+      "difficulty": "easy",
+      "category": "Supervised learning setup",
+      "url": "https://www.deep-ml.com/math-problems/30",
+      "path": "math/0030-ml-workflow-basics",
+      "first_solved_at": "2026-08-07T19:26:59.023Z",
+      "last_pushed_at": "2026-08-07T19:26:59.023Z"
     }
   }
 }
