@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:13:51.376Z",
+  "generated_at": "2026-09-28T23:13:53.517Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -1159,6 +1159,139 @@
       "path": "math/0030-ml-workflow-basics",
       "first_solved_at": "2026-08-07T19:26:59.023Z",
       "last_pushed_at": "2026-08-07T19:26:59.023Z"
+    },
+    "math:34": {
+      "kind": "math",
+      "id": "34",
+      "title": "Least Squares and the Normal Equations",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/34",
+      "path": "math/0034-least-squares-and-the-normal-equations",
+      "first_solved_at": "2026-08-08T04:17:35.744Z",
+      "last_pushed_at": "2026-08-08T04:17:35.744Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-08-08T04:18:10.618Z",
+      "last_pushed_at": "2026-08-08T04:18:10.618Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-08-08T04:18:47.641Z",
+      "last_pushed_at": "2026-08-08T04:18:47.641Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-08-08T04:19:38.384Z",
+      "last_pushed_at": "2026-08-08T04:19:38.384Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-08-08T04:20:41.237Z",
+      "last_pushed_at": "2026-08-08T04:20:41.237Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-08-08T05:07:07.330Z",
+      "last_pushed_at": "2026-08-08T05:07:07.330Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-08-08T05:09:18.477Z",
+      "last_pushed_at": "2026-08-08T05:09:18.477Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:847": {
+      "kind": "problem",
+      "id": "847",
+      "title": "Dummy Classifier Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/847",
+      "path": "problems/0847-dummy-classifier-baseline",
+      "first_solved_at": "2026-08-08T06:41:19.793Z",
+      "last_pushed_at": "2026-08-08T06:41:19.793Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:848": {
+      "kind": "problem",
+      "id": "848",
+      "title": "Dummy Regressor Baseline",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/848",
+      "path": "problems/0848-dummy-regressor-baseline",
+      "first_solved_at": "2026-08-08T06:48:17.847Z",
+      "last_pushed_at": "2026-08-08T06:48:17.847Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:802": {
+      "kind": "problem",
+      "id": "802",
+      "title": "Stochastic Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/802",
+      "path": "problems/0802-stochastic-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-08-08T06:55:02.515Z",
+      "last_pushed_at": "2026-08-08T06:55:02.515Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:803": {
+      "kind": "problem",
+      "id": "803",
+      "title": "Mini-Batch Gradient Descent Step for Linear Regression",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/803",
+      "path": "problems/0803-mini-batch-gradient-descent-step-for-linear-regression",
+      "first_solved_at": "2026-08-08T08:40:37.539Z",
+      "last_pushed_at": "2026-08-08T08:40:37.539Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

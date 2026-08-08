@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 74 problems · 5 labs · 12 math
+**102** solved · 80 problems · 5 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,8 +41,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-29 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-31 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-07-29 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-08-08 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-08-04 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-07-29 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-08-08 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-29 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-08-27 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-09-24 | [solution](problems/0153-steplr-learning-rate-scheduler) |
@@ -55,6 +57,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-09-24 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-09-23 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-22 | [solution](problems/0151-dropout-layer) |
+| [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-08-08 | [solution](problems/0847-dummy-classifier-baseline) |
+| [Dummy Regressor Baseline](https://www.deep-ml.com/problems/848) | medium | 2026-08-08 | [solution](problems/0848-dummy-regressor-baseline) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-09-28 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-08-04 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-28 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
@@ -79,12 +83,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/741) | medium | 2026-07-04 | [solution](problems/0741-knapsack-based-zero-bucket-assignment) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-09-28 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-07-29 | [solution](problems/0009-matrix-times-matrix) |
+| [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-08-08 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-07-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-09-24 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-08-04 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-28 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-08-04 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-08-08 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-25 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
@@ -101,12 +107,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-08-08 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-08-08 | [solution](math/0018-descriptive-statistics) |
+| [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-08-08 | [solution](math/0033-expectation-and-variance-algebra) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-08-08 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-08-07 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-09-28 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-09-28 | [solution](math/0039-bias-variance-decomposition) |
 | [Covariance and Correlation](https://www.deep-ml.com/math-problems/17) | medium | 2026-09-28 | [solution](math/0017-covariance-and-correlation) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-09-28 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-08-05 | [solution](math/0012-inverse-and-rank) |
+| [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-08-08 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Logistic Regression as Maximum Likelihood](https://www.deep-ml.com/math-problems/40) | medium | 2026-09-25 | [solution](math/0040-logistic-regression-as-maximum-likelihood) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-22 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-22 | [solution](math/0031-regularization-and-generalization) |
