@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:57:34.140Z",
+  "generated_at": "2026-09-29T00:57:37.465Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -1522,6 +1522,91 @@
       "last_pushed_at": "2026-08-29T16:31:20.381Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-08-30T12:04:02.967Z",
+      "last_pushed_at": "2026-08-30T12:04:02.967Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-08-30T12:14:54.896Z",
+      "last_pushed_at": "2026-08-30T12:14:54.896Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-08-30T12:55:04.133Z",
+      "last_pushed_at": "2026-08-30T12:55:04.133Z",
+      "language": "python",
+      "lines": 6
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-08-30T12:55:50.930Z",
+      "last_pushed_at": "2026-08-30T12:55:50.930Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-08-30T12:58:01.559Z",
+      "last_pushed_at": "2026-08-30T12:58:01.559Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-08-30T13:00:35.312Z",
+      "last_pushed_at": "2026-08-30T13:00:35.312Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-08-30T13:10:58.830Z",
+      "last_pushed_at": "2026-08-30T13:10:58.830Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
