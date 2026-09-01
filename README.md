@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 100 problems · 6 labs · 22 math
+**129** solved · 101 problems · 6 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -111,6 +111,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-08-04 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-08-08 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-08-29 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-09-01 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-25 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
