@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:06:38.366Z",
+  "generated_at": "2026-09-23T22:15:12.231Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -135,6 +135,19 @@
       "path": "problems/1230-dropout-in-train-vs-eval-mode",
       "first_solved_at": "2026-09-23T22:08:20.787Z",
       "last_pushed_at": "2026-09-23T22:08:20.787Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:902": {
+      "kind": "problem",
+      "id": "902",
+      "title": "Implement BatchNorm2d from Scratch (training mode)",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/902",
+      "path": "problems/0902-implement-batchnorm2d-from-scratch-training-mode",
+      "first_solved_at": "2026-09-23T22:16:54.321Z",
+      "last_pushed_at": "2026-09-23T22:16:54.321Z",
       "language": "python",
       "lines": 17
     }
