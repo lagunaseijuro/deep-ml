@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:46:07.634Z",
+  "generated_at": "2026-09-24T23:25:46.951Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -280,6 +280,19 @@
       "last_pushed_at": "2026-09-24T22:47:51.035Z",
       "language": "python",
       "lines": 9
+    },
+    "lab:3480fd6b-ee7a-4afd-ba4b-5c934aeab10b": {
+      "kind": "lab",
+      "id": "3480fd6b-ee7a-4afd-ba4b-5c934aeab10b",
+      "title": "MLP with Dropout and BatchNorm",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b",
+      "path": "labs/3480fd6b-ee7a-4afd-ba4b-5c934aeab10b-mlp-with-dropout-and-batchnorm",
+      "first_solved_at": "2026-09-24T23:27:30.117Z",
+      "last_pushed_at": "2026-09-24T23:27:30.117Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
