@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 14 problems · 0 labs · 3 math
+**18** solved · 15 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Cosine LR Schedule with Linear Warmup](https://www.deep-ml.com/problems/910) | easy | 2026-09-24 | [solution](problems/0910-cosine-lr-schedule-with-linear-warmup) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-09-23 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-09-24 | [solution](problems/0913-early-stopping-with-patience) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-09-23 | [solution](problems/0901-implement-dropout-from-scratch) |
