@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 19 problems · 1 labs · 4 math
+**25** solved · 20 problems · 1 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-09-23 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-09-24 | [solution](problems/0914-numerically-stable-cross-entropy) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-25 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Labs
 
