@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:09:46.682Z",
+  "generated_at": "2026-09-28T18:09:48.948Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -414,7 +414,7 @@
       "url": "https://www.deep-ml.com/math-problems/17",
       "path": "math/0017-covariance-and-correlation",
       "first_solved_at": "2026-09-28T18:11:08.024Z",
-      "last_pushed_at": "2026-09-28T18:11:28.146Z"
+      "last_pushed_at": "2026-09-28T18:11:28.561Z"
     }
   }
 }
