@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:13:08.732Z",
+  "generated_at": "2026-09-28T19:08:22.232Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -448,6 +448,19 @@
       "path": "math/0016-eigendecomposition-and-svd",
       "first_solved_at": "2026-09-28T18:14:52.191Z",
       "last_pushed_at": "2026-09-28T18:14:52.191Z"
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-09-28T19:10:02.661Z",
+      "last_pushed_at": "2026-09-28T19:10:02.661Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
