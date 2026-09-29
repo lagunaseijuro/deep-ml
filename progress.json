@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T00:57:48.564Z",
+  "generated_at": "2026-09-29T00:57:51.250Z",
   "items": {
     "math:31": {
       "kind": "math",
@@ -1302,7 +1302,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-08-29T12:06:44.891Z",
-      "last_pushed_at": "2026-08-29T12:06:44.891Z"
+      "last_pushed_at": "2026-09-29T00:57:51.249Z"
     },
     "math:38": {
       "kind": "math",
@@ -1313,7 +1313,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-08-29T12:18:54.794Z",
-      "last_pushed_at": "2026-08-29T12:18:54.794Z"
+      "last_pushed_at": "2026-09-29T00:57:51.249Z"
     },
     "problem:42": {
       "kind": "problem",
@@ -1571,7 +1571,7 @@
       "url": "https://www.deep-ml.com/math-problems/3",
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-08-30T12:55:50.930Z",
-      "last_pushed_at": "2026-08-30T12:55:50.930Z"
+      "last_pushed_at": "2026-09-29T00:57:51.249Z"
     },
     "math:4": {
       "kind": "math",
@@ -1582,7 +1582,7 @@
       "url": "https://www.deep-ml.com/math-problems/4",
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-08-30T12:58:01.559Z",
-      "last_pushed_at": "2026-08-30T12:58:01.559Z"
+      "last_pushed_at": "2026-09-29T00:57:51.249Z"
     },
     "math:35": {
       "kind": "math",
@@ -1593,7 +1593,7 @@
       "url": "https://www.deep-ml.com/math-problems/35",
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-08-30T13:00:35.312Z",
-      "last_pushed_at": "2026-08-30T13:00:35.312Z"
+      "last_pushed_at": "2026-09-29T00:57:51.249Z"
     },
     "problem:24": {
       "kind": "problem",
