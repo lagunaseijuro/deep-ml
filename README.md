@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**154** solved · 122 problems · 10 labs · 22 math
+**155** solved · 123 problems · 10 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -128,6 +128,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-28 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-03 | [solution](problems/1235-sgd-with-momentum-step) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-12 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-31 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-08-04 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-08-08 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
