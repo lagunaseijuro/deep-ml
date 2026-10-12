@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 123 problems · 10 labs · 22 math
+**156** solved · 124 problems · 10 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -125,6 +125,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-03 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-03 | [solution](problems/1219-one-training-step) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-08-04 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
+| [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-12 | [solution](problems/0190-overlapping-max-pooling) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-28 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-03 | [solution](problems/1235-sgd-with-momentum-step) |
