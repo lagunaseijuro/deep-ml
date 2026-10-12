@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**157** solved · 125 problems · 10 labs · 22 math
+**158** solved · 126 problems · 10 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-08-04 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-07-30 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-08-29 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-10-12 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-09-23 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-09-23 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-07-30 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
