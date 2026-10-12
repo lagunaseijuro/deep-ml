@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**159** solved · 127 problems · 10 labs · 22 math
+**160** solved · 128 problems · 10 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-09-24 | [solution](problems/0153-steplr-learning-rate-scheduler) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-07-29 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-03 | [solution](problems/0087-adam-optimizer) |
+| [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-12 | [solution](problems/1233-apply-a-2d-convolution) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-09-23 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-09-28 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-08-30 | [solution](problems/1229-binary-cross-entropy-from-logits) |
