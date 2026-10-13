@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**161** solved · 129 problems · 10 labs · 22 math
+**162** solved · 130 problems · 10 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -102,6 +102,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-09-24 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-08-04 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-08-04 | [solution](problems/0354-handle-missing-data-with-imputation) |
+| [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-10-13 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-07-29 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-03 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-09-23 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
