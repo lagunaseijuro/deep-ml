@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**174** solved · 140 problems · 12 labs · 22 math
+**175** solved · 141 problems · 12 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -152,6 +152,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-10-29 | [solution](problems/0020-decision-tree-learning) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-09-01 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-09-25 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
+| [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-11 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
 ## Labs
 
