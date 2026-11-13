@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**185** solved · 149 problems · 12 labs · 24 math
+**186** solved · 150 problems · 12 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-03 | [solution](problems/1219-one-training-step) |
 | [Ordinal Encoding for Categorical Features](https://www.deep-ml.com/problems/843) | medium | 2026-08-04 | [solution](problems/0843-ordinal-encoding-for-categorical-features) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-10-12 | [solution](problems/0190-overlapping-max-pooling) |
+| [Permutation Feature Importance](https://www.deep-ml.com/problems/812) | medium | 2026-11-13 | [solution](problems/0812-permutation-feature-importance) |
 | [Polynomial Regression Fit](https://www.deep-ml.com/problems/801) | medium | 2026-09-28 | [solution](problems/0801-polynomial-regression-fit) |
 | [Precision and Recall at Threshold](https://www.deep-ml.com/problems/849) | medium | 2026-09-25 | [solution](problems/0849-precision-and-recall-at-threshold) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-11-02 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
