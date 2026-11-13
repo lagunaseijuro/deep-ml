@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**183** solved · 147 problems · 12 labs · 24 math
+**184** solved · 148 problems · 12 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -123,6 +123,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-10-29 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-07-30 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-23 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Precision-Recall Curve](https://www.deep-ml.com/problems/278) | medium | 2026-11-13 | [solution](problems/0278-implement-precision-recall-curve) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-11-11 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-09-03 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement ROC Curve Calculation](https://www.deep-ml.com/problems/276) | medium | 2026-08-07 | [solution](problems/0276-implement-roc-curve-calculation) |
